@@ -1,1 +1,1 @@
-Building an AI Agent from scratch using Google's Gemini API (model: gemini-2.0-flash-001)
+Building an AI Agent from scratch using Google's Gemini API (model: gemini-2.0-flash-001) in Python
